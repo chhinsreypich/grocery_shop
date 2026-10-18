@@ -1,16 +1,9 @@
 # grocery_shop
 
-A new Flutter project.
+This project was built for learning and practice purposes by following a YouTube tutorial by **Mitch Koko**.
 
-## Getting Started
+**Tutorial:** [Build This Flutter App | YouTube](https://youtu.be/uSljGJGSl6w?si=rutUBynO3c6f5AeW)
 
-This project is a starting point for a Flutter application.
+The purpose of this project was to practice Flutter development, understand the implementation of the app's features, and improve my mobile app development skills.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Note:** This is a learning project based on the tutorial linked above.
